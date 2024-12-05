@@ -4,16 +4,16 @@ Magi is a palette based on [various UIs seen on Neon Genesis Evangelion](https:/
 
 ## Palette
 
-Orange Primary: #f06000
+Orange Primary: #f06800
 
 | Color   | Normal  | Bright  |
 | ------- | ------- | ------- |
 | Black   | #505050 | #707070 |
-| Blue    | #50a0d0 | #a0f4f4 |
+| Blue    | #5090c8 | #40c8e8 |
 | Cyan    | #60f0a0 | #3cffd0 |
-| Green   | #409020 | #50ff00 |
-| Magenta | #401060 | #a02060 |
-| Red     | #a00000 | #e00000 |
+| Green   | #409820 | #50ff10 |
+| Magenta | #7058a4 | #b040a0 |
+| Red     | #c00010 | #e00010 |
 | White   | #a0a0a0 | #f8f8f8 |
 | Yellow  | #f0f0a0 | #f4b000 |
 
