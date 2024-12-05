@@ -3,17 +3,17 @@ background = "#000000"
 foreground = "#f06800"
 
 [colors.normal]
-black = "#505050"
+black = "#383838"
 blue = "#5090c8"
 cyan = "#60f0a0"
 green = "#409820"
 magenta = "#7058a4"
 red = "#a00010"
-white = "#a0a0a0"
+white = "#b0b0b0"
 yellow = "#f0f0a0"
 
 [colors.bright]
-black = "#707070"
+black = "#484848"
 blue = "#40c8e8"
 cyan = "#3cffd0"
 green = "#50ff10"
@@ -24,3 +24,16 @@ yellow = "#f4b000"
 
 [colors.selection]
 background = "#c80010"
+foreground = "#000000"
+
+[colors.footer_bar]
+background = "#f4b000"
+foreground = "#000000"
+
+[colors.search.matches]
+background = "#f0f0a0"
+foreground = "#000000"
+
+[colors.search.focused_match]
+background = "#f4b000"
+foreground = "#000000"
