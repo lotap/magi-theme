@@ -15,7 +15,7 @@ Orange Primary: #f06800
 | Cyan    | #60f0a0 | #3cffd0 |
 | Green   | #409820 | #50ff10 |
 | Magenta | #7058a4 | #b040a0 |
-| Red     | #c00010 | #e00010 |
+| Red     | #a00010 | #c80010 |
 | White   | #a0a0a0 | #f8f8f8 |
 | Yellow  | #f0f0a0 | #f4b000 |
 
