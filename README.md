@@ -4,6 +4,8 @@ Magi is a palette based on [various UIs seen on Neon Genesis Evangelion](https:/
 
 <img width="912" alt="Screenshot of lazygit" src="https://github.com/user-attachments/assets/8981ec19-f86a-4c55-a8f4-e3927bab4351">
 
+>To replicate the exact look of this screenshot, you will need [Lazygit](https://github.com/jesseduffield/lazygit), the MesloLG [Nerd Font](https://github.com/ryanoasis/nerd-fonts), and [Delta](https://github.com/dandavison/delta) set with `syntax-theme = base16`
+
 ## Palette
 
 Orange Primary: #f06800
