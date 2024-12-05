@@ -2,6 +2,8 @@
 
 Magi is a palette based on [various UIs seen on Neon Genesis Evangelion](https://www.reddit.com/r/FUI/comments/762sx3/neon_genesis_evangelion_fui_images_and_gifs/)
 
+<img width="912" alt="Screenshot 2024-12-04 at 11 39 41 PM" src="https://github.com/user-attachments/assets/c36b2773-e2ed-488a-a468-dc08a67699f4">
+
 ## Palette
 
 Orange Primary: #f06800
