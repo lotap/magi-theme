@@ -1,6 +1,6 @@
 # Magi Theme
 
-Magi is a palette based on various UIs seen on Neon Genesis Evangelion
+Magi is a palette based on [various UIs seen on Neon Genesis Evangelion](https://www.reddit.com/r/FUI/comments/762sx3/neon_genesis_evangelion_fui_images_and_gifs/)
 
 ## Palette
 
@@ -19,7 +19,7 @@ Orange Primary: #f06000
 
 ## Usage
 
-> So far, I have only made this into an Alacritty theme, but more may come.
+> So far, I have only made this into an [Alacritty](https://github.com/alacritty/alacritty) theme, but more may come.
 
 ### Alacritty
 
