@@ -12,13 +12,13 @@ Magi is a palette inspired by [the beautiful UIs of Neon Genesis Evangelion](htt
 >
 > Delta Config (`~/.gitconfig`)
 >
-> ```toml
+> ```ini
 > [core]
-> pager = delta
+>   pager = delta
 > 
 > [delta]
-> line-numbers = true
-> syntax-theme = base16 # This theme only uses colors set by the terminal
+>   line-numbers = true
+>   syntax-theme = base16 # This theme only uses colors set by the terminal
 > ```
 >
 > [Lazygit Config](https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md) (`.lazygit.yml` in your repo parent dir)
