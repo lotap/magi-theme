@@ -35,7 +35,7 @@ Orange Primary: #f06800
 
 | Color   | Normal  | Bright  |
 | ------- | ------- | ------- |
-| Black   | #383838 | #484848 |
+| Black   | #000000 | #484848 |
 | Blue    | #5090c8 | #40c8e8 |
 | Cyan    | #60f0a0 | #3cffd0 |
 | Green   | #409820 | #50ff10 |
