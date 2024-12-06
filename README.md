@@ -7,8 +7,16 @@ Magi is a palette inspired by [the beautiful UIs of Neon Genesis Evangelion](htt
 >To replicate the exact look of this screenshot, you will need:
 >
 > - MesloLG [Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+> - [Delta](https://github.com/dandavison/delta)
 > - [Lazygit](https://github.com/jesseduffield/lazygit)
-> - [Delta](https://github.com/dandavison/delta) set with `syntax-theme = base16`
+>
+> Delta Config (`~/.gitconfig`)
+>
+> ```toml
+> [delta]
+> line-numbers = true
+> syntax-theme = base16
+> ```
 >
 > [Lazygit Config](https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md) (`.lazygit.yml` in your repo parent dir)
 >
@@ -19,14 +27,6 @@ Magi is a palette inspired by [the beautiful UIs of Neon Genesis Evangelion](htt
 > git:
 >   paging:
 >     pager: "delta --paging=never"
-> ```
->
-> Delta Config (`~/.gitconfig`)
->
-> ```toml
-> [delta]
-> line-numbers = true
-> syntax-theme = base16
 > ```
 
 ## Palette
