@@ -31,6 +31,16 @@ Magi is a palette inspired by [the beautiful UIs of Neon Genesis Evangelion](htt
 
 ## Palette
 
+<details>
+<summary>Color swatches</summary>
+
+![Color Picker - F06800](https://github.com/user-attachments/assets/103854fb-f976-4cfc-acf1-3a152155f01f)
+
+![magi-normal](https://github.com/user-attachments/assets/921d002d-d7fa-4bc0-8809-1783b89c9268)
+
+![magi-bright](https://github.com/user-attachments/assets/9bdc9a91-1106-4623-b0f7-434fae052896)
+</details>
+
 Orange Primary: #f06800
 
 | Color   | Normal  | Bright  |
