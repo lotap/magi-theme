@@ -1,10 +1,33 @@
 # Magi Theme
 
-Magi is a palette based on [various UIs seen on Neon Genesis Evangelion](https://www.reddit.com/r/FUI/comments/762sx3/neon_genesis_evangelion_fui_images_and_gifs/)
+Magi is a palette inspired by [the beautiful UIs of Neon Genesis Evangelion](https://www.reddit.com/r/FUI/comments/762sx3/neon_genesis_evangelion_fui_images_and_gifs/)
 
 <img width="912" alt="Screenshot of lazygit" src="https://github.com/user-attachments/assets/8981ec19-f86a-4c55-a8f4-e3927bab4351">
 
->To replicate the exact look of this screenshot, you will need [Lazygit](https://github.com/jesseduffield/lazygit), the MesloLG [Nerd Font](https://github.com/ryanoasis/nerd-fonts), and [Delta](https://github.com/dandavison/delta) set with `syntax-theme = base16`
+>To replicate the exact look of this screenshot, you will need:
+>
+> - MesloLG [Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+> - [Lazygit](https://github.com/jesseduffield/lazygit)
+> - [Delta](https://github.com/dandavison/delta) set with `syntax-theme = base16`
+>
+> [Lazygit Config](https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md) (`.lazygit.yml` in your repo parent dir)
+>
+> ```yaml
+> gui:
+>   nerdFontsVersion: "3"
+>   showFileIcons: true
+> git:
+>   paging:
+>     pager: "delta --paging=never"
+> ```
+>
+> Delta Config (`~/.gitconfig`)
+>
+> ```toml
+> [delta]
+> line-numbers = true
+> syntax-theme = base16
+> ```
 
 ## Palette
 
