@@ -59,7 +59,7 @@ Orange Primary: #f06800
 
 ## Usage
 
-> So far, I have only made this into an [Alacritty](https://github.com/alacritty/alacritty) theme, but more may come.
+> ~~So far, I have only made this into an [Alacritty](https://github.com/alacritty/alacritty) theme, but more may come.~~
 
 ### Alacritty
 
@@ -71,3 +71,9 @@ Or download the whole file and import it:
 [general]
 import = ["~/.config/alacritty/themes/magi.toml"]
 ```
+
+### Ghostty
+
+> I don't have beta access, so the current config is my best guess based on what's in <https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/ghostty>
+
+Copy the contents of `ghostty` and paste the content in your [Ghostty](https://github.com/ghostty-org) config file (`~/.config/ghostty/config`)
