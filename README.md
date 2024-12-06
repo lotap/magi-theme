@@ -49,13 +49,13 @@ Orange Primary: #f06800
 | Color   | Normal  | Bright  |
 | ------- | ------- | ------- |
 | Black   | #000000 | #484848 |
-| Blue    | #5090c8 | #40c8e8 |
-| Cyan    | #60f0a0 | #3cffd0 |
-| Green   | #409820 | #50ff10 |
-| Magenta | #7058a4 | #b040a0 |
 | Red     | #a00010 | #c80010 |
-| White   | #b0b0b0 | #f8f8f8 |
+| Green   | #409820 | #50ff10 |
 | Yellow  | #f0f0a0 | #f4b000 |
+| Blue    | #5090c8 | #40c8e8 |
+| Magenta | #7058a4 | #b040a0 |
+| Cyan    | #60f0a0 | #3cffd0 |
+| White   | #b0b0b0 | #f8f8f8 |
 
 ## Usage
 

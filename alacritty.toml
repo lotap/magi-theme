@@ -4,23 +4,23 @@ foreground = "#f06800"
 
 [colors.normal]
 black = "#000000"
-blue = "#5090c8"
-cyan = "#60f0a0"
-green = "#409820"
-magenta = "#7058a4"
 red = "#a00010"
-white = "#b0b0b0"
+green = "#409820"
 yellow = "#f0f0a0"
+blue = "#5090c8"
+magenta = "#7058a4"
+cyan = "#60f0a0"
+white = "#b0b0b0"
 
 [colors.bright]
 black = "#484848"
-blue = "#40c8e8"
-cyan = "#3cffd0"
-green = "#50ff10"
-magenta = "#b040a0"
 red = "#c80010"
-white = "#f8f8f8"
+green = "#50ff10"
 yellow = "#f4b000"
+blue = "#40c8e8"
+magenta = "#b040a0"
+cyan = "#3cffd0"
+white = "#f8f8f8"
 
 [colors.selection]
 background = "#c80010"
