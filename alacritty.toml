@@ -37,3 +37,7 @@ foreground = "#000000"
 [colors.search.focused_match]
 background = "#f4b000"
 foreground = "#000000"
+
+[[colors.indexed_colors]]
+index = 202
+color = "#f06800"
