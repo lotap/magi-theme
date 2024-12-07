@@ -55,7 +55,7 @@ Orange Primary: #f06800
 | Blue    | #5090c8 | #40c8e8 |
 | Magenta | #7058a4 | #b040a0 |
 | Cyan    | #60f0a0 | #3cffd0 |
-| White   | #b0b0b0 | #f8f8f8 |
+| White   | #b0b0b0 | #e8e8e8 |
 
 ## Usage
 
