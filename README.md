@@ -72,8 +72,30 @@ Or download the whole file and import it:
 import = ["~/.config/alacritty/themes/magi.toml"]
 ```
 
-### Ghostty
+### Ghostty (WIP)
 
 > I don't have beta access, so the current config is my best guess based on what's in <https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/ghostty>
 
 Copy the contents of `ghostty` and paste the content in your [Ghostty](https://github.com/ghostty-org) config file (`~/.config/ghostty/config`)
+
+### Fish Shell (WIP)
+
+Add the following lines to `~/.config/fish/config.fish`:
+
+```fish
+set -g fish_color_command bryellow
+set -g fish_pager_color_progress black --background=yellow
+```
+
+Or copy the contents of `fish.theme` to `~/.config/fish/themes/magi.theme` then run `fish_config theme save magi`
+
+#### [Tide](https://github.com/IlanCosman/tide)
+
+Add the following lines to `~/.config/fish/config.fish`:
+
+```fish
+set -g tide_character_color yellow
+set -g tide_git_color_branch yellow
+set -g tide_pwd_color_anchors brblue
+set -g tide_pwd_color_dirs blue
+```
