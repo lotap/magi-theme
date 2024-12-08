@@ -2,7 +2,7 @@
 
 Magi is a palette inspired by [the beautiful UIs of Neon Genesis Evangelion](https://www.reddit.com/r/FUI/comments/762sx3/neon_genesis_evangelion_fui_images_and_gifs/)
 
-<img width="912" alt="Screenshot of lazygit" src="https://github.com/user-attachments/assets/8981ec19-f86a-4c55-a8f4-e3927bab4351">
+<img width="912" alt="Screenshot of lazygit" src="https://github.com/user-attachments/assets/3d5936f1-9ee8-41e4-b63e-f457c5435b6c">
 
 >To replicate the exact look of this screenshot, you will need:
 >
