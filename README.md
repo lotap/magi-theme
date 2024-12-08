@@ -27,6 +27,9 @@ Magi is a palette inspired by [the beautiful UIs of Neon Genesis Evangelion](htt
 > gui:
 >   nerdFontsVersion: "3"
 >   showFileIcons: true
+>   theme:
+>     selectedLineBgColor:
+>       - bold
 > git:
 >   paging:
 >     pager: "delta --paging=never"
