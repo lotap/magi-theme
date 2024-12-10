@@ -6,7 +6,7 @@ Magi is a palette inspired by [the beautiful UIs of Neon Genesis Evangelion](htt
 
 >To replicate the exact look of this screenshot, you will need:
 >
-> - MesloLG [Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+> - [Commit Mono](https://commitmono.com/) [Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 > - [Delta](https://github.com/dandavison/delta)
 > - [Lazygit](https://github.com/jesseduffield/lazygit)
 >
