@@ -4,7 +4,7 @@ Magi is a palette inspired by [the beautiful UIs of Neon Genesis Evangelion](htt
 
 <img width="912" alt="Screenshot of lazygit" src="https://github.com/user-attachments/assets/3d5936f1-9ee8-41e4-b63e-f457c5435b6c">
 
->To replicate the exact look of this screenshot, you will need:
+> To replicate the exact look of this screenshot, you will need:
 >
 > - [Commit Mono](https://commitmono.com/) [Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 > - [Delta](https://github.com/dandavison/delta)
@@ -15,7 +15,7 @@ Magi is a palette inspired by [the beautiful UIs of Neon Genesis Evangelion](htt
 > ```ini
 > [core]
 >   pager = delta
-> 
+>
 > [delta]
 >   line-numbers = true
 >   syntax-theme = base16 # This theme only uses colors set by the terminal
@@ -45,6 +45,7 @@ Magi is a palette inspired by [the beautiful UIs of Neon Genesis Evangelion](htt
 ![magi-normal](https://github.com/user-attachments/assets/921d002d-d7fa-4bc0-8809-1783b89c9268)
 
 ![magi-bright](https://github.com/user-attachments/assets/9bdc9a91-1106-4623-b0f7-434fae052896)
+
 </details>
 
 Orange Primary: #f06800
@@ -62,8 +63,6 @@ Orange Primary: #f06800
 
 ## Usage
 
-> ~~So far, I have only made this into an [Alacritty](https://github.com/alacritty/alacritty) theme, but more may come.~~
-
 ### Alacritty
 
 Copy the contents of `alacritty.toml` into your alacritty config file (`~/.config/alacritty/alacritty.toml` by default)
@@ -75,30 +74,43 @@ Or download the whole file and import it:
 import = ["~/.config/alacritty/themes/magi.toml"]
 ```
 
-### Ghostty (WIP)
+### Ghostty
 
-> I don't have beta access, so the current config is my best guess based on what's in <https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/ghostty>
+Copy the contents of `ghostty.conf` and paste the content in your [Ghostty](https://github.com/ghostty-org) config file (`~/.config/ghostty/config`)
 
-Copy the contents of `ghostty` and paste the content in your [Ghostty](https://github.com/ghostty-org) config file (`~/.config/ghostty/config`)
+### Fish Shell
 
-### Fish Shell (WIP)
+Copy the contents of `fish-magi.theme` or `fish-eva.theme` to `~/.config/fish/themes/magi.theme` then run `fish_config theme save magi`
 
-Add the following lines to `~/.config/fish/config.fish`:
+The magi theme uses cyan & yellow for commands whereas the eva theme uses green & magenta.
 
-```fish
-set -g fish_color_command bryellow
-set -g fish_pager_color_progress black --background=yellow
-```
-
-Or copy the contents of `fish.theme` to `~/.config/fish/themes/magi.theme` then run `fish_config theme save magi`
+If the theme is not saving between sessions, the automatically generated `fish_frozen_theme.fish` is probably not updating. Try using the `fish_config` command, selecting `magi` from the ui and clicking the `set theme` button.
 
 #### [Tide](https://github.com/IlanCosman/tide)
 
-Add the following lines to `~/.config/fish/config.fish`:
+Add to your fish config file `~/.config/fish/config.fish`:
 
 ```fish
 set -g tide_character_color yellow
 set -g tide_git_color_branch yellow
-set -g tide_pwd_color_anchors brblue
-set -g tide_pwd_color_dirs blue
+set -g tide_pwd_color_anchors brwhite
+set -g tide_pwd_color_dirs white
+```
+
+#### [Starship](https://starship.rs/)
+
+Add to your Starship config file `~/.config/starship.toml`:
+
+```toml
+"$schema" = 'https://starship.rs/config-schema.json'
+
+[directory]
+style = "white bold"
+
+[git_branch]
+style = "bold yellow"
+
+[character]
+success_symbol = "[❯](bold yellow)"
+
 ```

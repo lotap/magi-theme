@@ -1,15 +1,15 @@
-# name: magi-16
+# name: eva-16
 
 fish_color_normal normal
-fish_color_command cyan
+fish_color_command brgreen
 fish_color_keyword brgreen
 fish_color_quote green
 fish_color_redirection brgreen --bold
 fish_color_end magenta
 fish_color_error brred
-fish_color_param bryellow
+fish_color_param brmagenta
 fish_color_valid_path --underline
-fish_color_option brcyan
+fish_color_option magenta
 fish_color_comment white
 fish_color_selection black --background=brred --bold
 fish_color_operator brmagenta --bold
