@@ -11,7 +11,7 @@ fish_color_param bryellow
 fish_color_valid_path --underline
 fish_color_option brcyan
 fish_color_comment white
-fish_color_selection black --background=red --bold
+fish_color_selection black --background=brred --bold
 fish_color_operator brmagenta --bold
 fish_color_escape yellow
 fish_color_autosuggestion brblack

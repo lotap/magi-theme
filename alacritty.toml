@@ -1,10 +1,10 @@
 [colors.primary]
 background = "#000000"
-foreground = "#f06800"
+foreground = "#ec7420"
 
 [colors.normal]
 black = "#000000"
-red = "#a00010"
+red = "#a80808"
 green = "#409820"
 yellow = "#f4b000"
 blue = "#5090c8"
@@ -14,7 +14,7 @@ white = "#b0b0b0"
 
 [colors.bright]
 black = "#484848"
-red = "#c80010"
+red = "#f02020"
 green = "#50ff10"
 yellow = "#f0f0a0"
 blue = "#40c8e8"
@@ -23,7 +23,7 @@ cyan = "#3cffd0"
 white = "#e8e8e8"
 
 [colors.selection]
-background = "#c80010"
+background = "#f02020"
 foreground = "#000000"
 
 [colors.footer_bar]
@@ -40,4 +40,4 @@ foreground = "#000000"
 
 [[colors.indexed_colors]]
 index = 202
-color = "#f06800"
+color = "#ec7420"
