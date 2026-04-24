@@ -6,7 +6,7 @@ fish_color_keyword brgreen
 fish_color_quote green
 fish_color_redirection brgreen --bold
 fish_color_end magenta
-fish_color_error red
+fish_color_error brred
 fish_color_param brmagenta
 fish_color_valid_path --underline
 fish_color_option magenta
@@ -19,7 +19,7 @@ fish_color_cwd brblue
 fish_color_user yellow
 fish_color_host blue
 fish_color_host_remote green
-fish_color_status brred
+fish_color_status red
 fish_color_cancel --reverse
 fish_color_search_match bryellow --background=brblack --bold
 fish_color_history_current --bold
